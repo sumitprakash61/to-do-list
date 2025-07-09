@@ -12,9 +12,6 @@
 [issues-shield]: https://img.shields.io/github/issues/sumitprakash61/Todo-List-App?color=orange&style=flat-square
 [issues-url]: https://github.com/sumitprakash61/Todo-List-App/issues
 
-<p align="center">
-  <img src="https://github.com/sumitprakash61/Todo-List-App/raw/main/assets/todo_logo.png" alt="To-Do Logo" width="200"/>
-</p>
 
 <h3 align="center" style="text-align:center">📋 To-Do List App</h3>
 
