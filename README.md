@@ -3,14 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/sumitprakash61/Todo-List-App?style=flat-square
-[contributors-url]: https://github.com/sumitprakash61/Todo-List-App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sumitprakash61/Todo-List-App?style=flat-square
-[forks-url]: https://github.com/sumitprakash61/Todo-List-App/network/members
-[stars-shield]: https://img.shields.io/github/stars/sumitprakash61/Todo-List-App?color=red&style=flat-square
-[stars-url]: https://github.com/sumitprakash61/Todo-List-App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sumitprakash61/Todo-List-App?color=orange&style=flat-square
-[issues-url]: https://github.com/sumitprakash61/Todo-List-App/issues
+
 
 
 <h3 align="center" style="text-align:center">📋 To-Do List App</h3>
